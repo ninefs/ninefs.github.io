@@ -128,6 +128,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "20px"
+            },
+            ".mbr-section-text B": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-1",
           "_params": {
             "imageSize": "61",
@@ -169,15 +177,7 @@
           },
           "title": "Mobirise + Github",
           "text": "<b>[ 1 교시 ]</b><br><b>모비라이즈로 웹 컨텐츠를 작성하기</b><br><b><br>[ 2 교시 ]&nbsp;</b><br><b>깃 허브로 &nbsp;컨텐츠 &nbsp;인터넷에 오픈하기</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-size": "20px"
-            },
-            ".mbr-section-text B": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -227,7 +227,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">전송하기<br></a>"
         },
         {
           "_tags": [
