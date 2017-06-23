@@ -410,7 +410,7 @@
               "size": 0
             }
           },
-          "title": "앱 인터페\u001b이스&nbsp;구성도<br>\u001b\u001b<br>User Interface",
+          "title": "앱 인터페이스 구성<br>\u001b\u001b<br>User Interface",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -468,7 +468,7 @@
               "size": 0
             }
           },
-          "title": "웹서버 및 호스팅&nbsp;구성도<br>\u001b\u001b\u001b<br><font color=\"#000000\">Server &amp; Hosting</font>",
+          "title": "웹 서버/호스팅&nbsp;구성<br>\u001b\u001b\u001b<br><font color=\"#000000\">Server &amp; Hosting</font>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -545,7 +545,7 @@
           "title3": "반려동물 앱 개발",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "MS사의 Xamarin Form 기술을 적용하여 웹서버 및 호스팅을 구축하여 배포한 웹 컨텐츠를 안드로이드 앱에 적용하는 과정을 진행함",
-          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">반려동물 관리앱<br>(다운로드 준비중..)<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#features6-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">반려동물 관리앱<br>(다운로드 준비중..)<br></a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -608,8 +608,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>인천광역시 남동구 간석 1동<br><br><br>\n<strong>Contacts</strong><br>이메일 : ninefs@naver.com<br>담당자 : 나인프스 김세현 실장",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://ninefs.com\" target=\"_blank\">Ninefs 나인프스</a>&nbsp;홈페이지<a class=\"text-white\" href=\"https://mobirise.com/\"></a></li></ul>",
+          "text1": "<strong>Address</strong><br>인천광역시 남동구 간석 1동<br><br><br>\n<strong>Contacts</strong><br>담당자 : 나인프스 김세현 실장<br>이메일 : ninefs@naver.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>인천비즈니스고등학교&nbsp;홈페이지</li><li><a href=\"http://\" target=\"_blank\">나인프스 홈페이지</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "ninefs@naver.com",
