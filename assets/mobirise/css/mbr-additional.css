@@ -505,3 +505,11 @@ h6,
 #msg-box5-9 H3 {
   font-size: 36px;
 }
+#msg-box5-a H3 {
+  font-size: 36px;
+  color: #ffffff;
+  text-align: right;
+}
+#msg-box5-a P {
+  color: #c1c1c1;
+}
