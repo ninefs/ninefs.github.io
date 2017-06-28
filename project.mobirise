@@ -490,8 +490,8 @@
           "_anchor": "msg-box5-a",
           "_params": {
             "imageSize": "54",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -527,8 +527,8 @@
               "size": 0
             }
           },
-          "title": "반려동물 관리앱<div>실행 및 데이터관리</div>",
-          "text": "서버구축, 웹 컨텐츠 개발, 웹호스팅 구축, 웹컨텐츠 업로드, 웹앱융합과정을 통해 만든 앱입니다. 데이터베이스를 관리하여 앱에서 제공되는 컨텐츠를 원격 관리 할 수 있는 것이 중점입니다",
+          "title": "반려동물 관리앱<div>및 데이터관리</div>",
+          "text": "서버구축, 웹 컨텐츠 개발, 웹호스팅 구축, 웹컨텐츠 업로드, 웹앱융합과정을 통해 만든 앱입니다. 데이터베이스를 관리하여 앱에서 제공되는 컨텐츠를 원격 관리 할 수 있는 것이 프로젝트의 중점입니다",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -667,8 +667,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>인천광역시 남동구 간석 1동<br><br><br>\n<strong>Contacts</strong><br>담당자 : 나인프스 김세현 실장<br>이메일 : ninefs@naver.com<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>인천비즈니스고등학교&nbsp;홈페이지</li><li><a href=\"http://\" target=\"_blank\">나인프스 홈페이지</a></li></ul>",
+          "text1": "<strong>Address</strong><br>인천광역시 남구 장고개로 31 인천비즈니스고등학교<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">인천광역시 남동구 간석 1동</span><br><br><br>\n<strong>Contacts</strong><br>개발자 : 2학년 장선진 학생<br>도우미 : 나인프스 김세현 실장<br>이메일 : ninefs@naver.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://ibg.icehs.kr/main.do\" target=\"_blank\">인천비즈니스고등학교&nbsp;홈페이지</a></li><li><a href=\"http://\" target=\"_blank\">나인프스 홈페이지</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "ninefs@naver.com",
