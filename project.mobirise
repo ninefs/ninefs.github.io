@@ -339,7 +339,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=pOfPBCsezOg",
+              "src": "https://youtu.be/O4Po1bf1Giw",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -667,7 +667,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>인천광역시 남구 장고개로 31 인천비즈니스고등학교<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">인천광역시 남동구 간석 1동</span><br><br><br>\n<strong>Contacts</strong><br>개발자 : 2학년 장선진 학생<br>도우미 : 나인프스 김세현 실장<br>이메일 : ninefs@naver.com<br><br>",
+          "text1": "<strong>Address</strong><br>인천광역시 남구 장고개로 31 인천비즈니스고등학교<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">인천광역시 남동구 간석 1동 나인프스</span><br><br><br>\n<strong>Contacts</strong><br>개발자 : 2학년 장선진 학생<br>도우미 : 나인프스 김세현 실장<br>이메일 : ninefs@naver.com<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://ibg.icehs.kr/main.do\" target=\"_blank\">인천비즈니스고등학교&nbsp;홈페이지</a></li><li><a href=\"http://\" target=\"_blank\">나인프스 홈페이지</a></li></ul>",
           "form": {
             "title": "MESSAGE",
