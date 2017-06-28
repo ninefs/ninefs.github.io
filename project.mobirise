@@ -604,7 +604,7 @@
           "title3": "반려동물 앱 개발",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "MS사의 Xamarin Form 기술을 적용하여 웹서버 및 호스팅을 구축하여 배포한 웹 컨텐츠를 안드로이드 앱에 적용하는 과정을 진행함",
-          "button3": "<a data-app-btn=\"true\" href=\"http://ninefs.vps.phps.kr/ninefs/files/ninefs/1498637530844_animal.Android-Signed.apk\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">반려동물 관리앱<br>(안드로이드 \u001b\u001b\u001b폰 다운로드)<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://ninefs.vps.phps.kr/ninefs/files/ninefs/animal.Android-Signed.apk\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">반려동물 관리앱<br>(안드로이드 </a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
